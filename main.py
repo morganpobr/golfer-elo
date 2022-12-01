@@ -1,10 +1,5 @@
-# This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from collections import defaultdict
-
-players_list = ["Scottie Scheffler", "Justin Thomas", "Mackenzie Hughes,"]
 
 
 def print_hi(name):
@@ -31,6 +26,10 @@ if __name__ == '__main__':
 
 
 
+# Get Leaderboard
+# Add all new players and assign base score (2400 for pga, 2300 for kft etc)
+# Calculate points gained/lost for each matchup and sum for each player. Adjust player rating.
+# Re-sort and publish standings
 
 
 
